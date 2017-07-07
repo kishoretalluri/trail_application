@@ -1,0 +1,5 @@
+<project name="aaa" default="compile">
+	<target name="compile">
+		<echo message="hello welcome"/>
+	</target>
+</project>
